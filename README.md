@@ -25,7 +25,7 @@ npm start
 * Bootstrap
 
 ## Preview
-![alt text](https://github.com/sboucher2011/REACT-Memory-Game/blob/main/public/img/readme.png)
+![alt text](https://github.com/sboucher2011/REACT-Memory-Game/blob/main/public/img/readme.jpg)
 
 ## Deployed
 https://sboucher2011.github.io/REACT-Memory-Game/
